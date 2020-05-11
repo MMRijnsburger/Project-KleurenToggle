@@ -1,8 +1,9 @@
 # **Project KleurenToggle**
-Winc Academy Project - week 1: Kleuren Toggle
+Winc Academy Project - Week 1: KleurenToggle
 
 Screenshot
 ![Screenshot](./images/Screenshot.png)
+Bekijk de live versie van de [KleurenToggle] (https://festive-newton-5548e1.netlify.app/)
 
 Met dit project heb ik mijn eerste toggle menu gemaakt met JavaScript. 
 Het gaat om een keuzemenu waarmee je de achtergrondkleur van je webpagina kunt veranderen.
